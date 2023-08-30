@@ -25,6 +25,8 @@ format:
     navigation-mode: linear
     incremental: true
     controls-layout: edges
+    touch: false
+    controls: true
 title-slide-attributes:
   data-background-video: media/video/00_intro_ATTO.mp4
   data-background-size: cover
