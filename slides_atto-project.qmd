@@ -1,0 +1,106 @@
+---
+title: "ATTO - Amazon Tall Tower Observatory"
+subtitle: "To new heights in climate research in the Amazon rainforest"
+author: ""
+format: 
+  revealjs:
+    embed-resources: false
+    # parallax-background-image: media/img/amazon_goes_2018_lrg.jpg
+    # parallax-background-size: "5800px 3800px"
+    # parallax-background-horizontal: 300
+    # parallax-background-vertical: 200
+    center: false
+    theme: [simple, media/css/mytheme.scss]
+    logo: media/img/ATTO_logo.png
+    css: media/css/styles.css
+    fig-cap-location: bottom
+    footer: |
+      [ATTO - Amazon Tall Tower Observatory](https://www.attoproject.org)
+    auto-stretch: true
+    multiplex: true
+    slide-number: false
+    menu: false
+    preview-link: true
+    scrollable: false
+    navigation-mode: linear
+    incremental: true
+    controls-layout: edges
+title-slide-attributes:
+  data-background-video: media/video/00_intro_ATTO.mp4
+  data-background-size: cover
+  data-background-opacity: "0.95"
+  data-background-video-loop: true
+  data-background-video-muted: true
+    # data-footer: ""
+include-after-body: media/add-custom-footer.html
+# title-slide-attributes:
+#     data-background-video: /media/video/00_intro_ATTO.mp4
+#     data-background-size: contain
+#     data-background-opacity: "0.5"
+---
+
+##  {data-background-video="media/video/xx_aerial_amazon.mp4" data-background-opacity="0.4" background-video-loop="true" background-video-muted="true" auto-animate="true"}
+
+::: {style="margin-top: 200px; font-size: 4em; text-align: center;"}
+🇧🇷 🤝 🇩🇪
+:::
+
+##  {data-background-video="media/video/xx_aerial_amazon.mp4" data-background-opacity="0.4" background-video-loop="true" background-video-muted="true" auto-animate="true"}
+
+::: {style="text-align: justify;"}
+The Amazon Tall Tower Observatory (ATTO) is a joint German-Brazilian project that was first initiated in 2008 and centers around a research site in the Amazon rainforest in Brazil. With ATTO, our main goal is to further our understanding of the Amazon rainforest and its interaction with the soil beneath and the atmosphere above.
+:::
+
+::: {style="margin-top: 100px; text-align: center;"}
+🇧🇷 🤝 🇩🇪
+:::
+
+
+# The ATTO experimental site
+
+##  {background-iframe="https://infograficos.estadao.com.br/public/cidades/torre-amazonia/atto" background-interactive="false"}
+
+::: footer
+:::
+
+# Our goal
+
+##  {data-background-video="media/video/01_interaction-atm-bio.mp4" background-video-loop="true" background-video-muted="true"}
+
+::: footer
+:::
+
+# Fluxes: Eddy Covariance method
+
+##  {data-background-video="media/video/02_eddy-covariance_method.mp4" background-video-loop="true" background-video-muted="true"}
+
+::: footer
+:::
+
+##  {data-background-video="media/video/03_sensor_equations.mp4" background-video-loop="true" background-video-muted="true"}
+
+::: footer
+:::
+
+##  {data-background-video="media/video/04_explanation_flux.mp4" background-video-loop="true" background-video-muted="true"}
+
+::: footer
+:::
+
+##  {data-background-video="media/video/05_conclusion_EC.mp4" background-video-loop="true" background-video-muted="true"}
+
+::: footer
+:::
+
+# {data-background-video="media/video/x1_aerial_amazon.mp4" background-video-loop="true" background-video-muted="true"}
+
+
+::: {.fragment style="color: white; font-size: 3em; font-family: Bebas Neue; text-align: center;"}
+Thank you for visiting us!
+:::
+
+::: footer
+:::
+
+
+<!-- ## Slide Title {background-color="black" background-image="media/img/ATTO_tower.jpg" data-background-size="contain"} -->
